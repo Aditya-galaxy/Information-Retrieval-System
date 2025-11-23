@@ -7,9 +7,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 list_of_files = [
     "src/_init_-py",
     "src/helper.py",
-    ". env",
-    "requirements. txt",
-    "setup. py",
+    ".env",
+    "requirements.txt",
+    "setup.py",
     "app.py",
     "research/trials.ipynb",
 ]
